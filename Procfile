@@ -1,1 +1,1 @@
-web: gunicorn compression-strength-predict: app
+web: gunicorn model: app
